@@ -1,12 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
+    font-family: roboto;
 }
 
 header {
+  min-height: 45rem;
   background-image: url("../img/pradera.jpg");
   background-size: cover;
   background-position: center;
   box-shadow: 5px 138px 119px 15px rgba(0, 0, 0, 1) inset;
   -webkit-box-shadow: 5px 138px 119px 15px rgba(0, 0, 0, 1) inset;
   -moz-box-shadow: 5px 138px 119px 15px rgba(0, 0, 0, 1) inset;
-  height:40rem ;
+  
+}
+
+.chillguy {
+  width: 100%;
+  object-fit: cover;
+  
+}
+
+.acerca-de-mi {
+  background-color: rgba(0, 0, 0, 0.31);
+  
 }
