@@ -1,0 +1,12 @@
+body {
+}
+
+header {
+  background-image: url("../img/pradera.jpg");
+  background-size: cover;
+  background-position: center;
+  box-shadow: 5px 138px 119px 15px rgba(0, 0, 0, 1) inset;
+  -webkit-box-shadow: 5px 138px 119px 15px rgba(0, 0, 0, 1) inset;
+  -moz-box-shadow: 5px 138px 119px 15px rgba(0, 0, 0, 1) inset;
+  height:40rem ;
+}
