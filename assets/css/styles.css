@@ -30,7 +30,6 @@ header {
   width: 100%;
 }
 
-
 /* habilidades */
 .habilidades {
   min-height: 20rem;
@@ -47,10 +46,10 @@ header {
 }
 
 /* portafolio */
-.portafolio-img img{
+.portafolio-img img {
   height: 20rem;
   object-fit: cover;
-  object-position:top
+  object-position: top;
 }
 
 /* footer */
