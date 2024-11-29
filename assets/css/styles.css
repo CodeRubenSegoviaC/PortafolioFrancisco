@@ -25,32 +25,32 @@ header {
   background-color: rgba(0, 0, 0, 0.31);
 }
 
-/* estudios */
-.estudios{
-
-}
-
-.card{
-  
-}
-
-.card img{
+/* estudios*/
+.card img {
   width: 100%;
 }
+
 
 /* habilidades */
 .habilidades {
   min-height: 20rem;
 }
 
-.habilidades p{
+.habilidades p {
   text-align: center;
   font-weight: 700;
   margin-top: 1rem;
 }
 
-.skill img{
+.skill img {
   width: 10rem;
+}
+
+/* portafolio */
+.portafolio-img img{
+  height: 20rem;
+  object-fit: cover;
+  object-position:top
 }
 
 /* footer */
@@ -60,9 +60,9 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  box-shadow: 0px 108px 99px 19px rgba(0,0,0,0.97) inset;
--webkit-box-shadow: 0px 108px 99px 19px rgba(0,0,0,0.97) inset;
--moz-box-shadow: 0px 108px 99px 19px rgba(0,0,0,0.97) inset;
+  box-shadow: 0px 108px 99px 19px rgba(0, 0, 0, 0.97) inset;
+  -webkit-box-shadow: 0px 108px 99px 19px rgba(0, 0, 0, 0.97) inset;
+  -moz-box-shadow: 0px 108px 99px 19px rgba(0, 0, 0, 0.97) inset;
 }
 
 .logos img {
