@@ -25,6 +25,19 @@ header {
   background-color: rgba(0, 0, 0, 0.31);
 }
 
+/* estudios */
+.estudios{
+
+}
+
+.card{
+  
+}
+
+.card img{
+  width: 100%;
+}
+
 /* habilidades */
 .habilidades {
   min-height: 20rem;
