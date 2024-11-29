@@ -25,6 +25,21 @@ header {
   background-color: rgba(0, 0, 0, 0.31);
 }
 
+/* habilidades */
+.habilidades {
+  min-height: 20rem;
+}
+
+.habilidades p{
+  text-align: center;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+
+.skill img{
+  width: 10rem;
+}
+
 /* footer */
 footer {
   color: #fff;
